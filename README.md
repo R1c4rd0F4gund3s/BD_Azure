@@ -22,29 +22,27 @@ sem a utilização de código, seguindo a orientação da instrutora [Valéria B
 
 8. Clicar em 'Next: Networking'
 
-10. Será direcionado a uma nova tela ao clicar em 'New server';
+9. Será direcionado a uma nova tela ao clicar em 'New server';
+
 <img loading="lazy" src="https://github.com/R1c4rd0F4gund3s/BD_Azure/blob/main/imagens/Entra_ID_DB_admin.png"/>
 
-   a) Dar um nome ao servidor e selecionar a localização geográfica;
+   9a. Dar um nome ao servidor e selecionar a localização geográfica;
 
-   b) Selecionar o método de autenticação;
+   9b. Selecionar o método de autenticação;
 
-   c) Selecionar o ID do administrador para o BD.
+   9c. Selecionar o ID do administrador para o BD.
 
 <img loading="lazy" src="https://github.com/R1c4rd0F4gund3s/BD_Azure/blob/main/imagens/Entra_ID_DB_admin1.png"/>
 
-12. Banco de Dados criado.
+10. Banco de Dados criado.
 
 <img loading="lazy" src="https://github.com/R1c4rd0F4gund3s/BD_Azure/blob/main/imagens/Efetuada_a_criacao_do_BD.png"/>
 
-## 📚 Conteúdos Disponíveis
-- 📄 Introdução ao Azure
-- ⚙️ Configuração de Máquinas Virtuais
-- 🔗 Redes e Conectividade
-- 🛠️ Segurança e Monitoramento
-- 🏗️ Melhores Práticas DevOps no Azure
 
-## 🤝 Contribuições
+## 📚 Conteúdos Disponíveis
+
+- ⚙️ Guia de Início Rápido: [Criar um banco de dados individual](https://learn.microsoft.com/pt-br/azure/azure-sql/database/single-database-create-quickstart?view=azuresql&tabs=azure-portal)
+
 
 ## 📧 Contato
 [email](mailto:fagundz@gmail.com) | 
